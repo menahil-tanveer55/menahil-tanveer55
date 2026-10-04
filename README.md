@@ -18,7 +18,7 @@
 
 ### 💜 About me
 
-I'm a senior software engineer with around six years of experience building production web applications, mostly frontend heavy and often shaped from loosely defined requirements. I currently work at Lloyds Banking Group on customer-facing card products.
+I'm a Senior Software Engineer with around 6 years of experience building production web applications, mostly frontend heavy and often shaped from loosely defined requirements. I currently work at Lloyds Banking Group on customer-facing card products.
 
 The question I keep coming back to is whether software will hold up once it succeeds. In practice that means fewer moving parts, clear boundaries between components, and decisions a teammate can still follow six months later.
 
@@ -41,16 +41,15 @@ The question I keep coming back to is whether software will hold up once it succ
 **[Express 5 + TypeScript Snippets](https://github.com/menahil-tanveer55/vscode-ts-backend-snippets)**
 VS Code snippets for production-minded Express 5 backends in TypeScript, including idempotency handling and consistent error codes.
 
-<a href="https://marketplace.visualstudio.com/items?itemName=PUBLISHER.EXTENSION-ID"><img src="https://img.shields.io/visual-studio-marketplace/v/PUBLISHER.EXTENSION-ID?style=flat-square&label=Marketplace&color=a855f7" /></a>
-<img src="https://img.shields.io/visual-studio-marketplace/i/PUBLISHER.EXTENSION-ID?style=flat-square&label=Installs&color=d946ef" />
 <img src="https://img.shields.io/github/license/menahil-tanveer55/vscode-ts-backend-snippets?style=flat-square&color=ec4899" />
 
 If you're early in your career and looking for a first open source contribution, issues and pull requests are welcome. I review every one.
 
 ---
 
-### 🎤 Speaking and writing
+### 🎤 Speaking, writing and press
 
+- **TechBullion interview**, August 2026. [*The Question Every Engineering Lead Should Ask: Is Your Codebase Still Safe to Change?*](https://techbullion.com/the-question-every-engineering-lead-should-ask-is-your-codebase-still-safe-to-change/) On why code review alone can't stop architectural decay, and how automated structural checks free reviewers to focus on judgment.
 - **TechSPARK Next Gen**, September 2026. Lightning talk on why what you optimise for matters more than how fast you ship.
 - **In the works:** *How I build fast now: the five checkpoints*, on keeping quality high while shipping quickly with AI.
 
@@ -64,19 +63,13 @@ If you're early in your career and looking for a first open source contribution,
 
 ---
 
-
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/menahil-tanveer55/menahil-tanveer55/output/snake-dark.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/menahil-tanveer55/menahil-tanveer55/output/snake-light.svg" />
-  </picture>
-</p>
+🐍 A snake, eating my commits
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/menahil-tanveer55/menahil-tanveer55/output/snake-dark.svg" /> <img alt="Contribution snake" src="https://raw.githubusercontent.com/menahil-tanveer55/menahil-tanveer55/output/snake-light.svg" /> </picture> </p>
 
 ---
 
 ### 🎨 Off the keyboard
 
-🎾 Padel, badminton and the occasional game of bowls &nbsp;·&nbsp; 🖌️ Painting &nbsp;·&nbsp; 🛋️ Interior design &nbsp;·&nbsp; 🎮 Gaming &nbsp;
+🎾 Padel, badminton and the occasional game of bowls &nbsp;·&nbsp; 🖌️ Painting &nbsp;·&nbsp; 🎮 Gaming &nbsp;
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:d946ef,100:a855f7&height=110&section=footer" width="100%" />
